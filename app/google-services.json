@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618427262703",
+    "project_id": "modulus-tutor-login",
+    "storage_bucket": "modulus-tutor-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618427262703:android:d147bdc86ccc58c3a25d1a",
+        "android_client_info": {
+          "package_name": "com.example.modulustutorlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7TXlVU9k_9Ja0Btpki0z1L55ltA3rbsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
